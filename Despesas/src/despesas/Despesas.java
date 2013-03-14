@@ -14,6 +14,11 @@ public class Despesas {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // OLAAAAAAA
+        
     }
+    
+    public static int soma(int a, int b){
+        return a+b;
+    }
+    
 }
