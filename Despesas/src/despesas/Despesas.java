@@ -16,8 +16,8 @@ public class Despesas {
     public static void main(String[] args) {
         // OLAAAAAAA
     }
+    public static double subtrai(double x, double y){
+        return x-y;
+    }
     
-   public static double subtrai(double x, double y){
-       return x-y;
-   }
 }
