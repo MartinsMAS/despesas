@@ -13,11 +13,22 @@ public class Despesas {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) {        
+
         int a=2, b=3;
         int multi = mult(a,b);
+
+    }
+
+    public static double subtrai(double x, double y){
+        return x-y;
     }
     
+    public static int soma(int a, int b){
+        return a+b;
+
+    }
+ 
     public static int soma(int a, int b){
         return a+b;
     }
