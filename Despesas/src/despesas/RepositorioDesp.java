@@ -9,5 +9,18 @@ package despesas;
  * @author Márcio
  */
 public class RepositorioDesp {
+
+    
+    private RepositorioDesp() {
+        
+    }
+
+    public void save(Despesa d){
+        
+    }
+    
+    public void add(Despesa d){
+        
+    }
     
 }
