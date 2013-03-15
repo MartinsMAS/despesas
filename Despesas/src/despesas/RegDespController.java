@@ -9,5 +9,13 @@ package despesas;
  * @author Márcio
  */
 public class RegDespController {
+
+    public RegDespController() {
+    }
+    
+    public void createDespesa(float valor, String desString){
+        Despesa d = new Despesa(valor,desString);
+        
+    }
     
 }
