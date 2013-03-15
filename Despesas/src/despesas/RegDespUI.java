@@ -10,4 +10,9 @@ package despesas;
  */
 public class RegDespUI {
     
+    RegDespController controller = new RegDespController();
+    
+    RegDespUI(){
+    }
+    
 }
